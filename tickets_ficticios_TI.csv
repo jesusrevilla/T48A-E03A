@@ -1,0 +1,201 @@
+ticket_id,categoria,severidad,tiempo_resolucion_horas,descripcion
+TKT-1000,Hardware,Alta,17.4,Servidor físico sin encender tras actualización eléctrica.
+TKT-1001,Red,Baja,22.5,Latencia elevada en enlace secundario.
+TKT-1002,Hardware,Alta,15.5,Servidor físico sin encender tras actualización eléctrica.
+TKT-1003,Software,Alta,15.8,Error crítico en base de datos: servicio no arranca.
+TKT-1004,Red,Baja,34.9,Latencia elevada en enlace secundario.
+TKT-1005,Hardware,Baja,34.0,Teclado defectuoso reportado por usuario.
+TKT-1006,Hardware,Alta,19.6,Servidor físico sin encender tras actualización eléctrica.
+TKT-1007,Software,Media,23.2,Aplicación ERP se congela al guardar pedidos.
+TKT-1008,Red,Alta,36.4,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1009,Red,Alta,9.7,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1010,Hardware,Alta,27.4,Servidor físico sin encender tras actualización eléctrica.
+TKT-1011,Red,Alta,43.7,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1012,Hardware,Baja,43.7,Teclado defectuoso reportado por usuario.
+TKT-1013,Red,Alta,4.6,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1014,Hardware,Media,16.4,Disco con sectores dañados en equipo de pruebas.
+TKT-1015,Red,Baja,25.7,Latencia elevada en enlace secundario.
+TKT-1016,Software,Media,10.8,Aplicación ERP se congela al guardar pedidos.
+TKT-1017,Red,Media,17.3,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1018,Red,Media,22.6,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1019,Software,Media,38.0,Aplicación ERP se congela al guardar pedidos.
+TKT-1020,Red,Baja,23.5,Latencia elevada en enlace secundario.
+TKT-1021,Software,Baja,26.2,Actualización pendiente de cliente desktop.
+TKT-1022,Red,Media,29.1,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1023,Hardware,Media,29.4,Disco con sectores dañados en equipo de pruebas.
+TKT-1024,Hardware,Baja,24.3,Teclado defectuoso reportado por usuario.
+TKT-1025,Red,Baja,12.0,Latencia elevada en enlace secundario.
+TKT-1026,Red,Baja,31.9,Latencia elevada en enlace secundario.
+TKT-1027,Red,Alta,28.3,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1028,Hardware,Alta,13.0,Servidor físico sin encender tras actualización eléctrica.
+TKT-1029,Red,Alta,17.2,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1030,Hardware,Media,32.9,Disco con sectores dañados en equipo de pruebas.
+TKT-1031,Software,Alta,30.1,Error crítico en base de datos: servicio no arranca.
+TKT-1032,Hardware,Media,16.8,Disco con sectores dañados en equipo de pruebas.
+TKT-1033,Hardware,Media,21.3,Disco con sectores dañados en equipo de pruebas.
+TKT-1034,Software,Alta,22.6,Error crítico en base de datos: servicio no arranca.
+TKT-1035,Hardware,Media,30.2,Disco con sectores dañados en equipo de pruebas.
+TKT-1036,Red,Alta,36.5,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1037,Red,Alta,24.7,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1038,Hardware,Baja,35.7,Teclado defectuoso reportado por usuario.
+TKT-1039,Red,Alta,32.7,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1040,Hardware,Baja,26.1,Teclado defectuoso reportado por usuario.
+TKT-1041,Red,Alta,9.6,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1042,Red,Alta,13.7,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1043,Hardware,Baja,31.4,Teclado defectuoso reportado por usuario.
+TKT-1044,Red,Baja,6.9,Latencia elevada en enlace secundario.
+TKT-1045,Hardware,Alta,25.2,Servidor físico sin encender tras actualización eléctrica.
+TKT-1046,Red,Media,34.0,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1047,Red,Baja,25.5,Latencia elevada en enlace secundario.
+TKT-1048,Software,Media,18.0,Aplicación ERP se congela al guardar pedidos.
+TKT-1049,Software,Media,15.5,Aplicación ERP se congela al guardar pedidos.
+TKT-1050,Hardware,Media,32.2,Disco con sectores dañados en equipo de pruebas.
+TKT-1051,Software,Baja,28.7,Actualización pendiente de cliente desktop.
+TKT-1052,Hardware,Media,21.1,Disco con sectores dañados en equipo de pruebas.
+TKT-1053,Software,Baja,34.7,Actualización pendiente de cliente desktop.
+TKT-1054,Red,Media,32.5,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1055,Hardware,Alta,41.9,Servidor físico sin encender tras actualización eléctrica.
+TKT-1056,Hardware,Alta,29.7,Servidor físico sin encender tras actualización eléctrica.
+TKT-1057,Red,Baja,22.4,Latencia elevada en enlace secundario.
+TKT-1058,Hardware,Alta,22.6,Servidor físico sin encender tras actualización eléctrica.
+TKT-1059,Hardware,Alta,4.7,Servidor físico sin encender tras actualización eléctrica.
+TKT-1060,Software,Media,25.5,Aplicación ERP se congela al guardar pedidos.
+TKT-1061,Hardware,Baja,23.8,Teclado defectuoso reportado por usuario.
+TKT-1062,Red,Media,10.7,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1063,Software,Media,23.7,Aplicación ERP se congela al guardar pedidos.
+TKT-1064,Software,Media,37.4,Aplicación ERP se congela al guardar pedidos.
+TKT-1065,Red,Media,16.7,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1066,Red,Media,14.4,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1067,Software,Media,35.0,Aplicación ERP se congela al guardar pedidos.
+TKT-1068,Hardware,Media,30.3,Disco con sectores dañados en equipo de pruebas.
+TKT-1069,Software,Baja,54.6,Actualización pendiente de cliente desktop.
+TKT-1070,Red,Alta,10.8,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1071,Software,Media,31.2,Aplicación ERP se congela al guardar pedidos.
+TKT-1072,Red,Media,27.2,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1073,Software,Media,24.6,Aplicación ERP se congela al guardar pedidos.
+TKT-1074,Hardware,Media,33.1,Disco con sectores dañados en equipo de pruebas.
+TKT-1075,Software,Media,23.7,Aplicación ERP se congela al guardar pedidos.
+TKT-1076,Software,Media,4.6,Aplicación ERP se congela al guardar pedidos.
+TKT-1077,Red,Alta,15.5,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1078,Red,Alta,37.6,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1079,Red,Media,35.7,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1080,Software,Alta,20.3,Error crítico en base de datos: servicio no arranca.
+TKT-1081,Hardware,Baja,29.0,Teclado defectuoso reportado por usuario.
+TKT-1082,Red,Media,51.8,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1083,Red,Baja,23.7,Latencia elevada en enlace secundario.
+TKT-1084,Software,Baja,23.9,Actualización pendiente de cliente desktop.
+TKT-1085,Red,Media,25.9,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1086,Hardware,Alta,30.1,Servidor físico sin encender tras actualización eléctrica.
+TKT-1087,Hardware,Baja,20.5,Teclado defectuoso reportado por usuario.
+TKT-1088,Red,Media,30.1,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1089,Red,Baja,4.6,Latencia elevada en enlace secundario.
+TKT-1090,Software,Baja,27.4,Actualización pendiente de cliente desktop.
+TKT-1091,Hardware,Baja,24.5,Teclado defectuoso reportado por usuario.
+TKT-1092,Hardware,Baja,21.8,Teclado defectuoso reportado por usuario.
+TKT-1093,Red,Alta,19.2,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1094,Software,Baja,17.9,Actualización pendiente de cliente desktop.
+TKT-1095,Hardware,Baja,15.9,Teclado defectuoso reportado por usuario.
+TKT-1096,Hardware,Baja,1.0,Teclado defectuoso reportado por usuario.
+TKT-1097,Software,Alta,21.3,Error crítico en base de datos: servicio no arranca.
+TKT-1098,Software,Baja,35.0,Actualización pendiente de cliente desktop.
+TKT-1099,Hardware,Baja,20.6,Teclado defectuoso reportado por usuario.
+TKT-1100,Hardware,Alta,30.4,Servidor físico sin encender tras actualización eléctrica.
+TKT-1101,Software,Alta,13.2,Error crítico en base de datos: servicio no arranca.
+TKT-1102,Hardware,Alta,10.9,Servidor físico sin encender tras actualización eléctrica.
+TKT-1103,Red,Baja,16.5,Latencia elevada en enlace secundario.
+TKT-1104,Red,Alta,13.7,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1105,Software,Alta,12.2,Error crítico en base de datos: servicio no arranca.
+TKT-1106,Software,Baja,28.5,Actualización pendiente de cliente desktop.
+TKT-1107,Software,Alta,41.8,Error crítico en base de datos: servicio no arranca.
+TKT-1108,Red,Baja,17.3,Latencia elevada en enlace secundario.
+TKT-1109,Hardware,Media,7.1,Disco con sectores dañados en equipo de pruebas.
+TKT-1110,Red,Alta,30.6,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1111,Hardware,Media,9.6,Disco con sectores dañados en equipo de pruebas.
+TKT-1112,Red,Baja,12.2,Latencia elevada en enlace secundario.
+TKT-1113,Hardware,Alta,28.9,Servidor físico sin encender tras actualización eléctrica.
+TKT-1114,Red,Baja,22.3,Latencia elevada en enlace secundario.
+TKT-1115,Software,Media,17.1,Aplicación ERP se congela al guardar pedidos.
+TKT-1116,Red,Baja,24.7,Latencia elevada en enlace secundario.
+TKT-1117,Hardware,Alta,19.9,Servidor físico sin encender tras actualización eléctrica.
+TKT-1118,Red,Alta,42.9,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1119,Red,Media,17.2,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1120,Red,Baja,14.9,Latencia elevada en enlace secundario.
+TKT-1121,Software,Alta,19.4,Error crítico en base de datos: servicio no arranca.
+TKT-1122,Red,Media,19.9,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1123,Software,Alta,30.0,Error crítico en base de datos: servicio no arranca.
+TKT-1124,Software,Alta,4.1,Error crítico en base de datos: servicio no arranca.
+TKT-1125,Red,Baja,28.3,Latencia elevada en enlace secundario.
+TKT-1126,Red,Alta,18.6,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1127,Red,Baja,31.8,Latencia elevada en enlace secundario.
+TKT-1128,Hardware,Alta,23.5,Servidor físico sin encender tras actualización eléctrica.
+TKT-1129,Red,Media,29.2,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1130,Software,Alta,20.1,Error crítico en base de datos: servicio no arranca.
+TKT-1131,Red,Baja,28.4,Latencia elevada en enlace secundario.
+TKT-1132,Hardware,Baja,40.6,Teclado defectuoso reportado por usuario.
+TKT-1133,Red,Media,16.6,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1134,Hardware,Alta,22.9,Servidor físico sin encender tras actualización eléctrica.
+TKT-1135,Hardware,Alta,19.1,Servidor físico sin encender tras actualización eléctrica.
+TKT-1136,Red,Media,39.9,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1137,Software,Alta,19.7,Error crítico en base de datos: servicio no arranca.
+TKT-1138,Hardware,Alta,16.7,Servidor físico sin encender tras actualización eléctrica.
+TKT-1139,Red,Baja,18.2,Latencia elevada en enlace secundario.
+TKT-1140,Red,Alta,22.6,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1141,Software,Alta,16.1,Error crítico en base de datos: servicio no arranca.
+TKT-1142,Hardware,Media,20.3,Disco con sectores dañados en equipo de pruebas.
+TKT-1143,Hardware,Media,25.6,Disco con sectores dañados en equipo de pruebas.
+TKT-1144,Red,Baja,22.8,Latencia elevada en enlace secundario.
+TKT-1145,Red,Alta,32.3,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1146,Software,Alta,20.8,Error crítico en base de datos: servicio no arranca.
+TKT-1147,Software,Alta,22.0,Error crítico en base de datos: servicio no arranca.
+TKT-1148,Hardware,Baja,26.7,Teclado defectuoso reportado por usuario.
+TKT-1149,Hardware,Baja,46.4,Teclado defectuoso reportado por usuario.
+TKT-1150,Red,Media,16.1,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1151,Hardware,Baja,43.2,Teclado defectuoso reportado por usuario.
+TKT-1152,Software,Alta,12.2,Error crítico en base de datos: servicio no arranca.
+TKT-1153,Software,Alta,26.3,Error crítico en base de datos: servicio no arranca.
+TKT-1154,Red,Baja,20.6,Latencia elevada en enlace secundario.
+TKT-1155,Software,Alta,15.8,Error crítico en base de datos: servicio no arranca.
+TKT-1156,Software,Alta,31.0,Error crítico en base de datos: servicio no arranca.
+TKT-1157,Software,Baja,30.0,Actualización pendiente de cliente desktop.
+TKT-1158,Software,Baja,19.2,Actualización pendiente de cliente desktop.
+TKT-1159,Red,Alta,3.1,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1160,Red,Alta,19.8,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1161,Hardware,Alta,25.4,Servidor físico sin encender tras actualización eléctrica.
+TKT-1162,Software,Media,24.0,Aplicación ERP se congela al guardar pedidos.
+TKT-1163,Hardware,Media,31.6,Disco con sectores dañados en equipo de pruebas.
+TKT-1164,Red,Media,43.3,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1165,Red,Baja,28.1,Latencia elevada en enlace secundario.
+TKT-1166,Red,Media,29.7,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1167,Red,Baja,25.5,Latencia elevada en enlace secundario.
+TKT-1168,Red,Baja,35.7,Latencia elevada en enlace secundario.
+TKT-1169,Red,Media,29.3,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1170,Red,Media,31.5,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1171,Software,Media,42.1,Aplicación ERP se congela al guardar pedidos.
+TKT-1172,Hardware,Alta,26.3,Servidor físico sin encender tras actualización eléctrica.
+TKT-1173,Red,Media,21.3,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1174,Software,Alta,28.5,Error crítico en base de datos: servicio no arranca.
+TKT-1175,Software,Baja,35.4,Actualización pendiente de cliente desktop.
+TKT-1176,Hardware,Alta,29.0,Servidor físico sin encender tras actualización eléctrica.
+TKT-1177,Red,Media,34.6,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1178,Hardware,Baja,17.3,Teclado defectuoso reportado por usuario.
+TKT-1179,Red,Baja,15.3,Latencia elevada en enlace secundario.
+TKT-1180,Software,Baja,18.5,Actualización pendiente de cliente desktop.
+TKT-1181,Software,Alta,11.3,Error crítico en base de datos: servicio no arranca.
+TKT-1182,Software,Media,25.1,Aplicación ERP se congela al guardar pedidos.
+TKT-1183,Software,Baja,19.7,Actualización pendiente de cliente desktop.
+TKT-1184,Hardware,Baja,36.3,Teclado defectuoso reportado por usuario.
+TKT-1185,Red,Baja,11.1,Latencia elevada en enlace secundario.
+TKT-1186,Red,Alta,39.5,Caída total de VPN corporativa. Usuarios sin acceso remoto.
+TKT-1187,Hardware,Alta,14.2,Servidor físico sin encender tras actualización eléctrica.
+TKT-1188,Red,Media,11.6,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1189,Software,Alta,15.8,Error crítico en base de datos: servicio no arranca.
+TKT-1190,Red,Baja,43.5,Latencia elevada en enlace secundario.
+TKT-1191,Software,Media,23.6,Aplicación ERP se congela al guardar pedidos.
+TKT-1192,Hardware,Baja,29.3,Teclado defectuoso reportado por usuario.
+TKT-1193,Red,Baja,22.2,Latencia elevada en enlace secundario.
+TKT-1194,Hardware,Alta,23.1,Servidor físico sin encender tras actualización eléctrica.
+TKT-1195,Red,Media,18.9,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1196,Software,Alta,24.5,Error crítico en base de datos: servicio no arranca.
+TKT-1197,Hardware,Alta,28.9,Servidor físico sin encender tras actualización eléctrica.
+TKT-1198,Red,Media,40.8,Intermitencia en Wi-Fi zona de oficinas.
+TKT-1199,Software,Baja,5.3,Actualización pendiente de cliente desktop.
