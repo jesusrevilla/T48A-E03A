@@ -239,3 +239,4 @@ Uso educativo y demostrativo. Puedes reutilizar y modificar libremente el materi
 
 _Última actualización: 2025-11-27T23:19:35_
 
+#Enlace: https://colab.research.google.com/drive/1bnl-G5SWUTnOftJPhQXZuWsN_1WWS5dK?usp=sharing
